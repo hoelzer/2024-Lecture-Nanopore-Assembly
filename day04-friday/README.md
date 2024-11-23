@@ -1,4 +1,4 @@
-# 2023 Workshop MISSIoN Nanopore Bioinformatics - Day 04
+# 2024 Bioinformatics methods for nanopore sequencing analysis in infection research
 
 We use the last day for open questions and to discuss some additional helpful tools for your daily work with (Nanopore) sequencing data, assemblies, and annotations.
 
